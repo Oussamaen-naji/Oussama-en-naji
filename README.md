@@ -1,4 +1,6 @@
-<img src="banner.png" width="100%" />
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
 
 # 👋 Hey, I'm Oussama Ennaji
 
