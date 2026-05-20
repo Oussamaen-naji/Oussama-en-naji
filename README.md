@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%" />
+
 # 👋 Hey, I'm Oussama Ennaji
 
 ### 💻 Digital Infrastructure, Networks & Systems Student
