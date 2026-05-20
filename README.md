@@ -1,4 +1,4 @@
-<img src="banner.png"/>
+![Banner](https://raw.githubusercontent.com/Oussamaen-naji/Oussama-en-naji/main/banner.png)
 
 # 👋 Hey, I'm Oussama Ennaji
 
