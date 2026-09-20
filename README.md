@@ -18,17 +18,33 @@
     <td width="60%">
       <ul>
         <li>🎓 <b>Education:</b> 2nd Year Student in Digital Infrastructure (Networks & Systems Option).</li>
-        <li>💼 <b>Experience:</b> Former IT Intern at <b>Trésorerie Générale du Royaume (TGR)</b>.</li>
-        <li>🌐 <b>Focus Areas:</b> Enterprise Networking, Windows Server, Linux Systems & Cloud Infrastructure.</li>
+        <li>💼 <b>Experience:</b> IT Technician Intern at <b>Trésorerie Générale du Royaume (TGR)</b>.
+          <ul>
+            <li>📌 <i>Project:</i> Optimisation des réseaux de télécommunications via le routage.</li>
+          </ul>
+        </li>
+        <li>🌐 <b>Focus Areas:</b> Enterprise Networking, Routing Optimization, Windows Server, Linux Systems & Cloud Infrastructure.</li>
         <li>🚀 <b>Current Goal:</b> Mastering advanced networking labs & preparing for <b>Cisco CCNA (200-301)</b>.</li>
       </ul>
       <p><i>"Best Of Me — Built Daily."</i> 🔥</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Hacking GIF" />
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Networking and Hacking GIF" />
     </td>
   </tr>
 </table>
+
+---
+
+### 💼 Professional Internship Project
+
+> **Trésorerie Générale du Royaume (TGR)** — *IT Technician Intern*
+> 
+> 🎯 **Sujet du Stage:** *L’optimisation des réseaux de télécommunications via le routage.*
+>
+> 🔹 Application of networking basics, network diagnostics, and optimization of routing paths for enterprise infrastructure.
+> 
+> 📄 **[Read Full Internship Report (PDF)](https://github.com/Oussamaen-naji/stage-tgr-report/blob/main/rapport-de-stage.pdf)**
 
 ---
 
@@ -57,7 +73,9 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oussamaen-naji&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oussamaen-naji&layout=compact&theme=tokyonight&hide_border=true)
+
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Oussamaen-naji&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
