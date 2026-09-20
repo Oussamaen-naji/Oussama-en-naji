@@ -20,10 +20,10 @@
         <li>🎓 <b>Education:</b> 2nd Year Student in Digital Infrastructure (Networks & Systems Option).</li>
         <li>💼 <b>Experience:</b> IT Technician Intern at <b>Trésorerie Générale du Royaume (TGR)</b>.
           <ul>
-            <li>📌 <i>Project:</i> Optimisation des réseaux de télécommunications via le routage.</li>
+            <li>📌 <i>Project:</i> L'optimisation des réseaux de télécommunications via le routage.</li>
           </ul>
         </li>
-        <li>🌐 <b>Focus Areas:</b> Enterprise Networking, Routing Optimization, Windows Server, Linux Systems & Cloud Infrastructure.</li>
+        <li>🌐 <b>Focus Areas:</b> Enterprise Networking, Routing Optimization, Windows Server, Linux Systems & Data Analytics.</li>
         <li>🚀 <b>Current Goal:</b> Mastering advanced networking labs & preparing for <b>Cisco CCNA (200-301)</b>.</li>
       </ul>
       <p><i>"Best Of Me — Built Daily."</i> 🔥</p>
@@ -45,6 +45,18 @@
 > 🔹 Application of networking basics, network diagnostics, and optimization of routing paths for enterprise infrastructure.
 > 
 > 📄 **[Read Full Internship Report (PDF)](https://github.com/Oussamaen-naji/stage-tgr-report/blob/main/rapport-de-stage.pdf)**
+
+---
+
+### 📜 Certifications & Achievements
+
+- **ALX Data Analytics Programme** (6 Months) — *ALX Africa & ExploreAI Academy*
+  - 📊 *Focus:* Data Analysis, Traffic & Logs Analysis, Data Visualization, and Problem Solving.
+  - 🔗 [Verify Certificate](https://savanna.alxafrica.com/certificates/zfsXm9pFBZ)
+
+- **ALX Professional Foundations** — *ALX Africa*
+  - 🤝 *Focus:* Professional Development & Digital Age Soft Skills.
+  - 🔗 [Verify Certificate](https://savanna.alxafrica.com/certificates/srFC5hn2ZH)
 
 ---
 
