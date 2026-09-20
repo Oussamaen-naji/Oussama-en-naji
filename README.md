@@ -25,7 +25,7 @@
       <p><i>"Best Of Me — Built Daily."</i> 🔥</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB5Ymlzb3J5NWZ1YndpeGRzaW5ydG4zaTl1YmVnd2Z3ZHQ3cmVsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2GFscvh29NL60CDy4/giphy.gif" width="100%" alt="Networking and Hacking GIF" />
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Hacking GIF" />
     </td>
   </tr>
 </table>
@@ -57,9 +57,9 @@
 
 <div align="center">
 
-![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Oussamaen-naji&show_icons=true&theme=tokyonight&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oussamaen-naji&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Oussamaen-naji&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Oussamaen-naji&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 
